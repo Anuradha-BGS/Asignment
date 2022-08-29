@@ -1,0 +1,25 @@
+$color:white;
+
+.boldFontWeight {
+  font-Weight: bold;
+}
+
+.publishButton {
+  background: #0984e3;
+  border-Radius: 5px;
+}
+
+.publishDraftText {
+  font-Weight: normal;
+  color: $color;
+  padding-Top: 10px;
+  padding-Left: 5px;
+  padding-Bottom: 10px;
+  cursor: pointer;
+}
+
+.deleteDraftButton {
+  font-Weight: normal;
+  padding-Left: 5px;
+  cursor: pointer;
+}
